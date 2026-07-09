@@ -1,124 +1,136 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Professional Resume</title>
-</head>
-<body bgcolor="#FFFFFF" text="#333333">
+<h1 align="center">Hi 👋, I'm Munna Ruhidas</h1>
 
-    <!-- Header -->
-    <table width="100%" border="0" cellspacing="0" cellpadding="20" bgcolor="#2C3E50">
-        <tr>
-            <td align="center">
-                <h1>
-                    <font face="Verdana" color="#FFFFFF" size="7">MUNNA RUHIDAS</font>
-                </h1>
-                <p>
-                    <font face="Tahoma" color="#ECF0F1" size="4">
-                        BCA Student 
-                    </font>
-                </p>
-                <font face="Arial" color="#BDC3C7">
-                    <a href="mailto:munna2007@gmail.com">
-                        <font color="#3498DB">munna2007@gmail.com</font>
-                    </a> | 
-                    <font color="#FFFFFF">9242009249</font> | 
-                    <font color="#FFFFFF">Raghunathpur, Purulia</font>
-                </font>
-            </td>
-        </tr>
-    </table>
+<h3 align="center">
+🎓 BCA Student | 💻 Aspiring Software Engineer | 🚀 Full Stack Developer
+</h3>
 
-    <br>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;BCA+Student;Learning+Full+Stack+Development;Passionate+about+Programming;Always+Learning+New+Technologies" />
+</p>
 
-    <!-- Summary -->
-    <table width="90%" align="center">
-        <tr>
-            <td>
-                <h2><font face="Verdana" color="#2C3E50">Career Objective</font></h2>
-                <hr color="#2C3E50" size="3">
-                <p align="justify">
-                    <font face="Arial" size="3">
-                        Motivated BCA student with basic knowledge of programming and web development. 
-                        Seeking an opportunity to apply my skills in C, Java, and HTML/CSS to build 
-                        real-world projects and grow as a software developer.
-                    </font>
-                </p>
-            </td>
-        </tr>
-    </table>
+---
 
-    <!-- Education -->
-    <table width="90%" align="center" cellpadding="10">
-        <tr>
-            <td>
-                <h2><font face="Verdana" color="#2C3E50">Educational Qualification</font></h2>
-                <hr color="#2C3E50" size="2">
+## 👨‍💻 About Me
 
-                <table border="1" width="100%" cellspacing="0" cellpadding="8">
-                    <tr bgcolor="#F2F2F2">
-                        <th>Exam</th>
-                        <th>Board/University</th>
-                        <th>Year</th>
-                        <th>Percentage</th>
-                    </tr>
-                    <tr>
-                        <td>10th</td>
-                        <td>WBBSE</td>
-                        <td>2023</td>
-                        <td>51%</td>
-                    </tr>
-                    <tr>
-                        <td>12th</td>
-                        <td>WBCHSE</td>
-                        <td>2025</td>
-                        <td>63%</td>
-                    </tr>
-                    <tr>
-                        <td>BCA (Pursuing)</td>
-                        <td>MAKAUT</td>
-                        <td>--</td>
-                        <td>--</td>
-                    </tr>
-                </table>
-            </td>
-        </tr>
-    </table>
+- 🎓 Pursuing **Bachelor of Computer Applications (BCA)**
+- 🏫 MAKAUT University
+- 🌱 Currently learning **Java, DSA, JavaScript**
+- 💡 Interested in **Web Development, AI & Software Engineering**
+- 💬 Ask me about **C, Java, HTML, CSS**
+- 📍 Raghunathpur, Purulia, West Bengal
+- 📫 Email: **munna2007@gmail.com**
 
-    <!-- Skills -->
-    <table width="90%" align="center">
-        <tr>
-            <td>
-                <h2><font face="Verdana" color="#2C3E50">Skills</font></h2>
-                <hr color="#2C3E50" size="2">
-                <ul>
-                    <li>C, Java</li>
-                    <li>HTML, CSS</li>
-                    <li>MS Office (Word, Excel, PowerPoint)</li>
-                </ul>
-            </td>
-        </tr>
-    </table>
+---
 
-    <!-- Projects -->
-    <table width="90%" align="center">
-        <tr>
-            <td>
-                <h2><font face="Verdana" color="#2C3E50">Projects</font></h2>
-                <hr color="#2C3E50" size="2">
-                <ul>
-                    <li>Calculator in C</li>
-                </ul>
-            </td>
-        </tr>
-    </table>
+# 🛠️ Tech Stack
 
-    <br>
-    <center>
-        <hr width="50%">
-        <font face="Arial" size="2" color="#95A5A6">
-            Fresher - Ready to learn and grow in IT field
-        </font>
-    </center>
+<p>
 
-</body>
-</html>
+<img src="https://skillicons.dev/icons?i=c" />
+
+<img src="https://skillicons.dev/icons?i=java" />
+
+<img src="https://skillicons.dev/icons?i=html" />
+
+<img src="https://skillicons.dev/icons?i=css" />
+
+<img src="https://skillicons.dev/icons?i=js" />
+
+<img src="https://skillicons.dev/icons?i=git" />
+
+<img src="https://skillicons.dev/icons?i=github" />
+
+<img src="https://skillicons.dev/icons?i=vscode" />
+
+</p>
+
+---
+
+# 📚 Education
+
+| Qualification | Board | Year |
+|--------------|-------|------|
+| Secondary (10th) | WBBSE | 2023 |
+| Higher Secondary (12th) | WBCHSE | 2025 |
+| BCA (Pursuing) | MAKAUT | Present |
+
+---
+
+# 🚀 Projects
+
+### 🧮 Calculator in C
+
+- Console Based Calculator
+- C Programming
+- Functions
+- Switch Case
+
+---
+
+### 🌐 Personal Portfolio Website
+
+- HTML
+- CSS
+- Responsive Design
+
+---
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:munna2007@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/munnaruhidas8" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/ll__munna____bhai__ll/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.facebook.com/munna.ruhidas.2025/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+</p>
+
+
+---
+
+# 💻 Skills
+
+- 💙 C Programming
+- ☕ Java
+- 🌐 HTML5
+- 🎨 CSS3
+- 🛠 Git & GitHub
+- 💡 Problem Solving
+
+---
+
+# 🚀 Projects
+
+## 🧮 Calculator in C
+
+A simple calculator built using the C programming language.
+
+### Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+---
+
+# 🎯 Career Objective
+
+Motivated BCA student passionate about software development and web technologies. Seeking opportunities to improve my skills through real-world projects and internships while growing as a software engineer.
+
+---
+
+<p align="center">
+  <b>⭐ Thanks for visiting my profile! ⭐</b><br><br>
+  <i>"Code • Learn • Build • Repeat 🚀"</i>
+</p>
