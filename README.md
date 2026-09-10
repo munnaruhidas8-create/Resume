@@ -14,7 +14,7 @@
 
 - 🎓 Pursuing **Bachelor of Computer Applications (BCA)**
 - 🏫 MAKAUT University
-- 🌱 Currently learning **Java, DSA, JavaScript**
+- 🌱 Currently learning **Java, DSA, JavaScript, Python**
 - 💡 Interested in **Web Development, AI & Software Engineering**
 - 💬 Ask me about **C, Java, HTML, CSS**
 - 📍 Raghunathpur, Purulia, West Bengal
